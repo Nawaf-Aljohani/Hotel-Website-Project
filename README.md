@@ -1,7 +1,7 @@
 # Hotel-Website-Project
 A hotel website for our software web development course, this project won 3rd place in the SWE 363 Best Project Competition. 
 <br>
-Course: SWE 363
+Course: SWE 363 - Web Engineering & Development
 
 ## Getting Started
 1. [Node.js](https://nodejs.org/en) required
